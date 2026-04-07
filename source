@@ -12,18 +12,18 @@
                                     	   SS:::::::::::::::S	I::::::::I                                    
                                      	  S:::::SSSSSS::::::S	I::::::::I                                    
                                      	  S:::::S     SSSSSSS	II::::::II                                    
-    cccccccccccccccc	   ooooooooooo	   S:::::S               I::::I   nnnn  nnnnnnnn          eeeeeeeeeeee    
-  cc:::::::::::::::c	 oo:::::::::::oo	 S:::::S             I::::I	  n:::nn::::::::nn       ee::::::::::::ee  
- c:::::::::::::::::c	o:::::::::::::::o	 S::::SSSS           I::::I	  n::::::::::::::nn	    e::::::eeeee:::::ee
-c:::::::cccccc:::::c	o:::::ooooo:::::o	  SS::::::SSSSS      I::::I   nn:::::::::::::::n	e::::::e     e:::::e
-c::::::c     ccccccc	o::::o     o::::o	    SSS::::::::SS    I::::I	    n:::::nnnn:::::n	e:::::::eeeee::::::e
-c:::::c             	o::::o     o::::o	       SSSSSS::::S   I::::I	    n::::n    n::::n	e:::::::::::::::::e 
-c:::::c             	o::::o     o::::o	            S:::::S  I::::I	    n::::n    n::::n	e::::::eeeeeeeeeee  
-c::::::c     ccccccc	o::::o     o::::o	            S:::::S  I::::I	    n::::n    n::::n	e:::::::e           
-c:::::::cccccc:::::c	o:::::ooooo:::::o	SSSSSSS     S:::::S	II::::::II	n::::n    n::::n    e::::::::e          
- c:::::::::::::::::c	o:::::::::::::::o	S::::::SSSSSS:::::S	I::::::::I	n::::n    n::::n	 e::::::::eeeeeeee  
-  cc:::::::::::::::c	 oo:::::::::::oo	S:::::::::::::::SS	I::::::::I	n::::n    n::::n	  ee:::::::::::::e  
-    cccccccccccccccc	   ooooooooooo	    SSSSSSSSSSSSSSS   	IIIIIIIIII	nnnnnn    nnnnnn	   eeeeeeeeeeeeee  
+    cccccccccccccccc	   ooooooooooo	   S:::::S                I::::I  	 nnnn  nnnnnnnn          eeeeeeeeeeee    
+  cc:::::::::::::::c	 oo:::::::::::oo	 S:::::S              I::::I	  n:::nn::::::::nn       ee::::::::::::ee  
+ c:::::::::::::::::c	o:::::::::::::::o	 S::::SSSS            I::::I	  n::::::::::::::nn	    e::::::eeeee:::::ee
+c:::::::cccccc:::::c	o:::::ooooo:::::o	  SS::::::SSSSS       I::::I  	 nn:::::::::::::::n		e::::::e     e:::::e
+c::::::c     ccccccc	o::::o     o::::o	    SSS::::::::SS     I::::I	    n:::::nnnn:::::n	e:::::::eeeee::::::e
+c:::::c             	o::::o     o::::o	       SSSSSS::::S    I::::I	    n::::n    n::::n	e:::::::::::::::::e 
+c:::::c             	o::::o     o::::o	            S:::::S   I::::I	    n::::n    n::::n	e::::::eeeeeeeeeee  
+c::::::c     ccccccc	o::::o     o::::o	            S:::::S   I::::I	    n::::n    n::::n	e:::::::e           
+c:::::::cccccc:::::c	o:::::ooooo:::::o	SSSSSSS     S:::::S	II::::::II		n::::n    n::::n    e::::::::e          
+ c:::::::::::::::::c	o:::::::::::::::o	S::::::SSSSSS:::::S	I::::::::I		n::::n    n::::n	 e::::::::eeeeeeee  
+  cc:::::::::::::::c	 oo:::::::::::oo	S:::::::::::::::SS	I::::::::I		n::::n    n::::n	  ee:::::::::::::e  
+    cccccccccccccccc	   ooooooooooo	    SSSSSSSSSSSSSSS   	IIIIIIIIII		nnnnnn    nnnnnn	   eeeeeeeeeeeeee  
                                                                                                       
 ]]--
 -- SimpleSpy Intro Tweak
